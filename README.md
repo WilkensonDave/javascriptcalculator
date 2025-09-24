@@ -1,6 +1,6 @@
 ![Alt text](cal.PNG)
 
-# This is a simple calculator build using HTML css and javascript.
+# This is a simple calculator build using HTML, CSS and javascript.
 
 # What did i learned?
     In this project i strengthen the DOM manipulation and even handler knowledge.
